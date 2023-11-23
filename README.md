@@ -1,2 +1,2 @@
-# Proyecto-valor-coches-ML
-Proyecto de Machine learning sobre el precio de coches de segunda mano.
+# Predicción de Precios de Coches de Segunda Mano en España
+Este proyecto de Machine Learning tiene como objetivo desarrollar un modelo predictivo para estimar el precio de coches de segunda mano en el mercado español. Utilizando técnicas avanzadas de aprendizaje automático, buscamos proporcionar a los usuarios una herramienta confiable que les permita obtener una valoración precisa del precio de un vehículo usado.
