@@ -1,0 +1,7 @@
+parameters:
+  scaler: StandardScaler()
+  pca: 
+    n_components: 3
+  knn:
+    KNeighborsRegressor: 
+      n_neighbors: 3

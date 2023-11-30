@@ -1,0 +1,2 @@
+parameters:
+  n_neighbors: 3
